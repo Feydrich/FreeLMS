@@ -1,2 +1,2 @@
 # FreeLMS
-A free lms made for TVZ MC2 competition
+A free lms made for the TVZ-MC2 competition
